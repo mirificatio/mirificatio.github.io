@@ -3,6 +3,7 @@ body {
   font-weight: 300;
   background-image: url("https://mirificatio.github.io/Common_Source/BGPatt.jpg");
   background-size: cover;
+  background-repeat: no-repeat;
 }
 
 header {
