@@ -31,7 +31,7 @@ header p {
 .jumbotron {
   display: flex;
   align-items: center;
-  background-image: url('https://github.mirificatio.io/Common_Source/Church.jpg');
+  background-image: url('https://mirificatio.github.io/Common_Source/Church.jpg');
   background-size: cover;
   color: #ffffff;
   height: 500px;
